@@ -1,3 +1,6 @@
+/*
+ * Answer to life,universe and everything in codechef 
+ */
 import java.io.*;
  class life {
 
